@@ -1,5 +1,5 @@
 This project will look to analyse and visualise degrees awarded to women and men since 1970.
-It will show interesting patterns such as which degrees have an increase in women or man since 1970.
+It will show interesting patterns such as which degrees have an increase in women or man since 1970.And one of the intresting observations we can see is that in Biologhy and Physicologhyit shows that women overtake men in these subjects over the years.
 
 
 
