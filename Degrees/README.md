@@ -1,2 +1,1 @@
-NOWAY WILL THIS WORK INIT///////..,.,.,,.,.,L
-THIS REPOSITORY WILL ANALYSE THE ASTRONAUTS DATASET!!
+This project will analyse and vislise the degrees between men and women in each stem
