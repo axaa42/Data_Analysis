@@ -1,12 +1,14 @@
 This project will look to analyse and visualise the majors of women to men since 1970.
+___________________________________________________________________________________________________
 
 It will show interesting patterns such as which majors have more women or man since 1970.
 
 One of the intresting observations we can see is that in Biologhy and Psycologhy, it shows that women overtake men in these majors over the years. We can also see that men dominate the engineering majors. 
 
-I hope you can look at the plot and make your own observations
+I hope you can look at the plots and make your own observations
 
 
+_____________________________________________________________________________________________________
 
 The dataset is in the percent-bachelors-degrees-women-usa.csv file.
 The code is in Degrees.py
