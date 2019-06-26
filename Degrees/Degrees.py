@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 #This will let us explain things such as in what degrees are women rising in
 
 women_degrees = pd.read_csv('percent-bachelors-degrees-women-usa.csv')
+#The following are the colors for the lines on our plots.And we made sure to make the colors suitable for the color blind as the developer suffer from vision issues
 cb_dark_blue = (0/255,107/255,164/255)#Colors specific for color-blind.
 cb_orange = (255/255, 128/255, 14/255)
 
