@@ -109,8 +109,8 @@ plt.axhline(data['Sprint speed'].mean())#This will get the mean of population
 
 
 
-
-
+#THE below CALCLUTES THE MEAN OF SPRINT SPEED PER AGE GROUP.AND AS WE CAN SEE
+ #THAT AS YOU GET OLDER, THE MORE YOUR SPEED DECREASES AND THE YOUNGER YOU ARE THE MORE FASTER
 
 
 '''
@@ -123,8 +123,7 @@ bb=stratified["Sprint speed"].mean()#This is our stratified sanple mean.which is
 
 #print(g)     
      
-    #THE ABOVE CALCLUTES THE MEAN OF SPRINT SPEED PER AGE GROUP.AND AS WE CAN SEE
-    #THAT AS YOU GET OLDER, THE MORE YOUR SPEED DECREASES AND THE YOUNGER YOU ARE THE MORE FASTER
+    
 #THE FOLLWING GETS DIFFERENT SAMPLE FROM THE SPRINT SPPED
 '''
 
