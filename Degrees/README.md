@@ -1,5 +1,5 @@
 This project will look to analyse and visualise the majors of women to men since 1970.
-___________________________________________________________________________________________________
+____________________________________________________________________________________________________
 
 It will show interesting patterns such as which majors have more women or man since 1970.
 
