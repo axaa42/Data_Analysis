@@ -3,4 +3,10 @@ In this project we have demonstrated different statistic techniques on a Footbal
 -----------------------------------------------------
 
 (REAL) STREATIFIED SAMPLING.py - This project will show how to take a sample by using a techinque called stratefied sampling which gives removes bias from sample by taking equal proportion of each type.
+We learn the following from this program
+-that our stratfied representiaon is very accruate agasint the average.
+-This also shows that stratfeid sampling will give you the most accruate represnetation of a population
+
+-----------------------------------------------------
+
 
