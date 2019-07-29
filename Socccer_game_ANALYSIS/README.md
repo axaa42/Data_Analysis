@@ -14,6 +14,8 @@ We learn the following from this program
 
 DISTRIBUTIONS.PY- This program shows how to find the distribution of my dataset. You will also see how spot outliers and remove them.
 
-W
+---------------------------------------------------
+
+FIFA.PY- In this program we will find out whether being at a certain age has an effect on the amount of sprint speed given. Statistical demsonstations will be shown in the code
 
 
