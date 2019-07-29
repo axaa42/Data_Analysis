@@ -44,7 +44,7 @@ data=data[data["Preferred Positions"]!="GK"]#WE DONT WANT KEEPS CUX THEY R SLOW
 
 #x=data["Sprint speed"].sample(n=10,random_state=1).mean()
 #print(x)
-#THE FOLLOWING TAKES A SRATIFIED SAMPLNIG OF SPRINT SPEED PER AGE
+#THE FOLLOWING TAKES A SRATIFIED SAMPLNIG OF SPRINT SPEED PER AGE.
 
 #The follwoing gives us a propeortion of the amount of samples we should include from each group in our final stratified sample
 u=round(len(data[data["type"]=="under 20"])/len(data)*100)
