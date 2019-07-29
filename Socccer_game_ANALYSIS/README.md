@@ -33,4 +33,10 @@ OutlierFuniction.py- This is a function we have made to remove outliers from a d
 
 Probalility.py- This program shows simple conditonal probality 
 
+-------------------------------------------------------
+
+
+weightedMEAN_median_mode.py- This program shows statistical tecnniques such as weighted mean, mode,median, z-scores, outlier impact.
+
+
 
