@@ -4,6 +4,8 @@ Please Note if you want to run this code in your own Computer. Make sure you hav
 
 You can also uncomment certain code which has been commeneted just for educational purposes
 
+You can message me if you have any issues with the code
+
 -----------------------------------------------------
 
 (REAL) STREATIFIED SAMPLING.py - This project will show how to take a sample by using a techinque called stratefied sampling which removes bias from sample by taking equal proportion of each type.
