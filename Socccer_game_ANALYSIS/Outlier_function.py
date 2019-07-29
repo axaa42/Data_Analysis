@@ -1,11 +1,12 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sea
+#This program shows how to spot outliers and remove them.
 
 df=pd.read_csv("CompleteDataset.csv",dtype={"Free kick accuracy": str, "Penalties": str})
 #print(df["Age"].value_counts())
 
-sea.boxplot(x=df["Age"])#We can see that there are outliers.We will remove this with a function
+sea.boxplot(x=df["Age"])#We can see that there are outliers from the boxplot.We will remove this with a function
 plt.show()
 original_mean=df["Age"].mean()
 print(original_mean)
