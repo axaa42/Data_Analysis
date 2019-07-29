@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sea
+#In this dataset we will find out whether being at a certain age has an effect on the amount of sprint speed given
+
 df=pd.read_csv("CompleteDataset.csv",dtype={"Free kick accuracy": str, "Penalties": str}) #THESE TWO ARE OBJECT SO WE CONVERT TO STR FOR NOW BUT LATER WE CONVERT IT TO INT
 
 #THE FOLLWOING WILL REMOVE VALUE THAT CONTAIN - OR + AS THIS DOES NOT ALLOW USE TO CONVERT TO INT
@@ -23,7 +25,7 @@ df['Sprint speed'] = df['Sprint speed'].astype('int64')
 
 #NOTE NOT GOALKEEPS AS THEY ARE SLOW.TRY DIFFERENT POSTIONS 
 
-#In this dataset we will find out whether being at a certain age has an effect on the amount of sprint speed given
+
 
 #WE WILL ONLY GET THE COLUMNS THAT ARE OF IMPORATNCE TO US
 data=df[["Name","Age","Nationality","Overall","Club","Value","Wage","Acceleration","Sprint speed","Preferred Positions"]]
