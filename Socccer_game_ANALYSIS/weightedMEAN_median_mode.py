@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sea
 
+#The following program deals with situations when you have to take weighted mean.It will also show other things such as mode, median.
+
 #MEAN IS ADDING ALL THE NUMBERS AND DIVIDING BY HOW MANY NUMBERS THERE ARE.
 #Example, people of different age, to get their average we add all the ages in the dataset,
 #and divide by toal number of ages.
