@@ -22,6 +22,9 @@ DISTRIBUTIONS.PY- This program shows how to find the distribution of my dataset.
 
 FIFA.PY- In this program we will find out whether being at a certain age has an effect on the amount of sprint speed given. Statistical demsonstations will be shown in the code
 
+Please note there is Fifanalaysis2. Do not use this. Use the above which is the same.
+Fifaanalysis2 was used for debugging
+
 -----------------------------------------------------
 
 OutlierFuniction.py- This is a function we have made to remove outliers from a dataset.
