@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sea
+
+#This program will show the distribution of our data with data cleaning
 df=pd.read_csv("CompleteDataset.csv",dtype={"Free kick accuracy": str, "Penalties": str}) #THESE TWO ARE OBJECT SO WE CONVERT TO STR FOR NOW BUT LATER WE CONVERT IT TO INT
 
 #THE FOLLWOING WILL REMOVE VALUE THAT CONTAIN - OR + AS THIS DOES NOT ALLOW USE TO CONVERT TO INT
@@ -48,5 +50,5 @@ data=data[data["Preferred Positions"]!="GK"]#WE DONT WANT KEEPS CUX THEY R SLOW
 
 
 sea.boxplot(x=data['type'],y=data["Sprint speed"])#We can see that age the median age is 25.under 25% percentile is 21.
-#We can also see outliers, which make sense as over 38 are not allowed in footy
+#We can also see outliers, which does not make sense as over 38 are not allowed in footy
 
