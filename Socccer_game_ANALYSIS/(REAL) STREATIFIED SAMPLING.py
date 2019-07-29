@@ -1,6 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sea
+#This proeject will demonstate how to take a stratefied sample(Less Bias) from a dataset to get more accurate results.
+
+
 df=pd.read_csv("CompleteDataset.csv",dtype={"Free kick accuracy": str, "Penalties": str}) #THESE TWO ARE OBJECT SO WE CONVERT TO STR FOR NOW BUT LATER WE CONVERT IT TO INT
 
 #THE FOLLWOING WILL REMOVE VALUE THAT CONTAIN - OR + AS THIS DOES NOT ALLOW USE TO CONVERT TO INT
