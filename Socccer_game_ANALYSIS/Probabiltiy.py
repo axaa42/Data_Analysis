@@ -1,5 +1,7 @@
 import pandas as pd
 
+#This program shows simple proballity math
+
 df=pd.read_csv("CompleteDataset.csv",low_memory=False)
 
 #The follwoing will see what is the probaltiy of getting people aged 21 in our dataset
