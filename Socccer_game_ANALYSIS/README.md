@@ -12,4 +12,8 @@ We learn the following from this program
 
 -----------------------------------------------------
 
+DISTRIBUTIONS.PY- This program shows how to find the distribution of my dataset. You will also see how spot outliers and remove them.
+
+W
+
 
